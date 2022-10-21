@@ -1,0 +1,16 @@
+.DS_Store
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/telran.java2022/imagga-client-HW-colors/pom.properties
+target/classes/META-INF/maven/telran.java2022/imagga-client-HW-colors/pom.xml
+target/classes/telran/imagga/controller/ImaggaTagController.class
+target/classes/telran/imagga/dto/ColorsDto.class
+target/classes/telran/imagga/dto/ResponseColorsDto.class
+target/classes/telran/imagga/dto/ResultBackgroundColors.class
+target/classes/telran/imagga/dto/ResultColorDto.class
+target/classes/telran/imagga/dto/ResultColorsDto.class
+target/classes/telran/imagga/dto/ResultForegroundColors.class
+target/classes/telran/imagga/dto/ResultImageColors.class
